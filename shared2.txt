@@ -1,4 +1,4 @@
 header = "v1"
 step1 = "done-c-rev3"
-step2 = "todo"
+step2 = "done-b-rev3"
 step3 = "todo"
