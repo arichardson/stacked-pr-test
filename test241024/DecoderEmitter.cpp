@@ -6,3 +6,7 @@ void trackVariableConflictLocations() {
 int getHwModeSet() {
   return 2; // updated getHwModeSet
 }
+
+void emitHelperNonRecursive() {
+  // non-recursive helper
+}
