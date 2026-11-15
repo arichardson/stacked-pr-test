@@ -10,3 +10,7 @@ int getHwModeSet() {
 void emitHelperNonRecursive() {
   // non-recursive helper
 }
+
+void emitHelperRecursive() {
+  // recursive helper emission
+}
