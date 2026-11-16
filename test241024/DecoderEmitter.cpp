@@ -4,5 +4,5 @@ void trackVariableConflictLocations() {
 }
 
 int getHwModeSet() {
-  return 1;
+  return 2; // updated getHwModeSet
 }
