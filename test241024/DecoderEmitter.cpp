@@ -13,5 +13,5 @@ void emitHelperNonRecursive() {
 
 void emitHelperRecursive() {
   // recursive helper emission
-  // support recursive predicate emission v1
+  // support recursive predicate emission v2
 }
