@@ -1,1 +1,2 @@
 feature_b
+extended_b
